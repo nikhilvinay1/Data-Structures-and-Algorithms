@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms
-This repo contains data structures and algorithms that I practice and learned 
+# Data Structure & Algorithms using Python
+This repository covers data structures and algorithms in python.
